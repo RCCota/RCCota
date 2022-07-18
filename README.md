@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RCCota
 - 👀 I’m interested in Java, Ios, Android...
-- 🌱 I’m currently learning Html
+- 🌱 I’m currently learning Java and more...
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me bycota@gmail.com
 
